@@ -5,6 +5,7 @@ Ferramenta em Node.js para extrair e validar links a partir de uma URL ou de um 
 👤 Autor
 
 Nome: Paulo Roberto Santos Santos Elias
+
 RA: 2171392511011
 
 🚀 Como usar (passo a passo)
@@ -30,7 +31,9 @@ node cli.js arquivo.txt
 
 📄 Exemplo de arquivo
 https://google.com
+
 https://github.com
+
 http://site-invalido.com
 
 📊 Saída esperada
