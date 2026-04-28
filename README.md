@@ -30,6 +30,7 @@ node cli.js https://google.com
 node cli.js arquivo.txt
 
 📄 Exemplo de arquivo
+
 https://google.com
 
 https://github.com
